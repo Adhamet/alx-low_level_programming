@@ -1,0 +1,1 @@
+Arguments with terminal
