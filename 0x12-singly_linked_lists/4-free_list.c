@@ -8,6 +8,7 @@
 void free_list(list_t *head)
 {
 	list_t *cursor;
+
 	while (head)
 	{
 		cursor = head->next;
