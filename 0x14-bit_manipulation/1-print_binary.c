@@ -1,10 +1,9 @@
 #include "main.h"
 #include <string.h>
 
-/** print_binary - Prints the binary of a decimal.
- * 
+/**
+ * print_binary - Prints the binary of a decimal.
  * @n: number to print in binary
- *
  * Return: nothing
  */
 
